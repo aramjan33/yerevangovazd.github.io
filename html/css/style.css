@@ -1,0 +1,243 @@
+body{
+    color: #0f2f2f;
+    padding: 0;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+div{
+   box-sizing: border-box; 
+}
+header {
+    background: url(../img/1.jpg) no-repeat center top /cover;
+    height: 60%;
+}
+.container {
+    width: 90%;
+   margin: auto;
+    height: auto;
+   
+    
+}
+.logo{
+    margin-bottom: 60px;
+    margin-top: 10px;
+    float: left;
+    
+}
+.yerevan{
+    margin-left: 45%;
+}
+.login{
+   float: right;
+}
+nav{
+    float: right;
+}
+.menu{
+    padding: 0px;
+    margin-right: 350px;
+    display: block;
+}
+.menu li{
+    float: left;
+    display: block;
+    margin-right: 51px;
+    font-weight: 700;
+    
+} 
+.menu a{
+    color: #403c5f;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 17px
+    
+}
+
+.logotext {
+    
+    height: 2px;
+  }
+.logotext h2{
+   padding-top: 10px;
+    margin: 0px;
+    
+} 
+    
+}
+.logotext p{
+padding-bottom: 20px;
+    margin: 0px;
+    
+}
+.login{
+    text-decoration: none;
+    display: block;
+}
+a{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #403c5f;
+    
+}
+.login li{
+    display: block;
+    margin-left: 10px;
+}
+.logi{
+    width: 900px;
+    
+}
+.logobig {
+    margin-right: 10px;
+    height: 600px;
+    
+}
+.logobig h1 {
+    position: absolute;
+    top: 350px;
+    left: 225px;
+    color: aliceblue
+        
+}
+.logobig p {
+    position: absolute;
+    top: 390px;
+    left: 260px;
+    color: aliceblue;
+    font-size: 30px;
+}
+
+
+#map{
+  position: absolute;
+    right: 90px;
+    width: 100%;
+    z-index: 1;
+  
+    left: 1px;
+        height: 41%;
+    z-index: 1;
+}
+
+
+
+
+
+
+
+
+
+.pdf {
+   background: #f5eded;
+    width: 100%;
+  height: 200px;
+    position: relative;
+    top: 450px;
+    right: -10px;
+    
+}
+.pdf img{
+    
+    height: 450px;
+    padding: 0px;
+    margin-left: 150px;
+    padding: 20px;
+}
+.pdf a{
+    position: relative;
+    bottom: 170px;
+    left: 120px;
+  
+}
+.pdf p{
+    position: relative;
+    top:-240px;
+    right: -350px;
+}
+.pdf h3{
+   position: relative;
+    top: 90px;
+
+}
+#pdf1{
+    
+}
+
+#pdf2{
+    position:relative;
+    top: -714px;
+    left: 450px
+}
+#pdf3{
+    position:relative;
+    top: -1256px;
+    left: 800px; 
+}
+
+
+
+
+
+.pdf h3{
+    margin-left: 50px;
+    margin-top: 30px;
+}
+.cragir {
+   position: relative;
+    bottom: -520px;
+    
+   
+        text-align: center;
+    width: 1600px;
+    height: 650px
+}
+
+.crtext {
+    margin-right: 1000px;
+        width: 19%;
+            height: 100%;
+    font-size: 24px
+}
+.cragir img{
+    width: 30%;
+   position: relative;
+    top: -1000px;
+    right: -150px;
+}
+
+#foto2 {
+   top: -449px;
+    left: -330px
+}
+footer{
+    
+     background: url(../img/footer_background.png) no-repeat center top /cover;
+    height: 1200px;
+    
+ 
+}
+footer h2{
+    position: relative;
+    top:800px;
+    color: azure
+}
+footer p{
+    position: relative;
+    top:800px;
+    color: azure
+}
+#search{
+    position: relative;
+    top: 410px;
+    left: 500px;
+    width: 50%;
+    height: 25px;
+    border-radius: 10px;
+    background: #f5eded;
+    text-align: center;
+    font-size: 17px;
+}
+#maptop {
+    position: relative;
+    top: 450px
+}
